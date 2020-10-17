@@ -9,4 +9,4 @@ Here we analyze the bike sharing market in New York in order to propose a simila
 ## Results of the analysis
 
 ### Visualizations
-[](https://public.tableau.com/views/Checkout_Times_for_Users/CheckoutTimesforUsers?:language=en&:display_count=y&:origin=viz_share_link)
+[CitiBike Story](https://public.tableau.com/views/Checkout_Times_for_Users/CheckoutTimesforUsers?:showVizHome=no&:embed=true)
